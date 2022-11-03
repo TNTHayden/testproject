@@ -1,5 +1,6 @@
 package testproject;
 
 public class Player {
-	// Jerod
+	// Jerod has done that
+	
 }
